@@ -2,6 +2,9 @@
 
 #set("body") {
     <div class="welcome">
+        </br>
+        <img src="/images/logo-vapor.png">
+        </br></br>
         <h1>O Sorteado é: #(name)!</h1>
     </div>
 }
